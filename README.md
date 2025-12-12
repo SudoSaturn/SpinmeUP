@@ -1,4 +1,4 @@
-# Spinemup - Automatic Image Orientation Correction
+# SpinMeUP - Automatic Image Orientation Correction
 
 A Python script that monitors an input directory for new images and automatically corrects their orientation using an ONNX model.
 
