@@ -1,2 +1,6 @@
 pillow
 watchdog
+torch
+torchvision
+numpy
+onnx
