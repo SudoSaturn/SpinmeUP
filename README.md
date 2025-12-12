@@ -32,7 +32,7 @@ pip install pillow watchdog
 Run the script with absolute input and output directories:
 
 ```bash
-python your_script.py -i /path/to/input -o /path/to/output
+python spinmeup.py -i /path/to/input -o /path/to/output
 ```
 
 - `-i` / `--input`: directory to watch for images.
